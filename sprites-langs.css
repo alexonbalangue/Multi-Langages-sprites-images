@@ -1,0 +1,613 @@
+/*
+Testing proof it's on:
+- Fullstack PHP/HTML, 
+- Joomla (not yet)
+- Wordpress (not yet)
+- Prestashop (not yet)
+- and more...
+*/
+.sprites {
+    background-image: url(langs-size-14-Ko.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.sprites-ad {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -2px;
+}
+
+.sprites-ae {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -2px;
+}
+
+.sprites-ag {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -2px;
+}
+
+.sprites-am {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -2px;
+}
+
+.sprites-ar {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -2px;
+}
+
+.sprites-at {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -2px;
+}
+
+.sprites-au {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -2px;
+}
+
+.sprites-be {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -2px;
+}
+
+.sprites-bf {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -23px;
+}
+
+.sprites-bg {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -23px;
+}
+
+.sprites-bo {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -23px;
+}
+
+.sprites-br {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -23px;
+}
+
+.sprites-ca {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -23px;
+}
+
+.sprites-cd {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -23px;
+}
+
+.sprites-cg {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -23px;
+}
+
+.sprites-ch {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -23px;
+}
+
+.sprites-cl {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -44px;
+}
+
+.sprites-cm {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -44px;
+}
+
+.sprites-cn {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -44px;
+}
+
+.sprites-co {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -44px;
+}
+
+.sprites-cz {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -44px;
+}
+
+.sprites-de {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -44px;
+}
+
+.sprites-dj {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -44px;
+}
+
+.sprites-dk {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -44px;
+}
+
+.sprites-dz {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -65px;
+}
+
+.sprites-ee {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -65px;
+}
+
+.sprites-eg {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -65px;
+}
+
+.sprites-es {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -65px;
+}
+
+.sprites-fi {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -65px;
+}
+
+.sprites-fr {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -65px;
+}
+
+.sprites-ga {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -65px;
+}
+
+.sprites-gb {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -65px;
+}
+
+.sprites-gm {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -86px;
+}
+
+.sprites-gt {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -86px;
+}
+
+.sprites-hn {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -86px;
+}
+
+.sprites-ht {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -86px;
+}
+
+.sprites-hu {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -86px;
+}
+
+.sprites-id {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -86px;
+}
+
+.sprites-ie {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -86px;
+}
+
+.sprites-il {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -86px;
+}
+
+.sprites-in {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -107px;
+}
+
+.sprites-iq {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -107px;
+}
+
+.sprites-ir {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -107px;
+}
+
+.sprites-it {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -107px;
+}
+
+.sprites-jm {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -107px;
+}
+
+.sprites-jo {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -107px;
+}
+
+.sprites-jp {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -107px;
+}
+
+.sprites-kg {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -107px;
+}
+
+.sprites-kn {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -128px;
+}
+
+.sprites-kp {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -128px;
+}
+
+.sprites-kr {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -128px;
+}
+
+.sprites-kw {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -128px;
+}
+
+.sprites-kz {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -128px;
+}
+
+.sprites-la {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -128px;
+}
+
+.sprites-lb {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -128px;
+}
+
+.sprites-lc {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -128px;
+}
+
+.sprites-ls {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -149px;
+}
+
+.sprites-lu {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -149px;
+}
+
+.sprites-lv {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -149px;
+}
+
+.sprites-mg {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -149px;
+}
+
+.sprites-mk {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -149px;
+}
+
+.sprites-ml {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -149px;
+}
+
+.sprites-mm {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -149px;
+}
+
+.sprites-mt {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -149px;
+}
+
+.sprites-mx {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -170px;
+}
+
+.sprites-na {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -170px;
+}
+
+.sprites-ne {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -170px;
+}
+
+.sprites-ng {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -170px;
+}
+
+.sprites-ni {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -170px;
+}
+
+.sprites-nl {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -170px;
+}
+
+.sprites-no {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -170px;
+}
+
+.sprites-om {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -170px;
+}
+
+.sprites-pa {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -191px;
+}
+
+.sprites-pe {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -191px;
+}
+
+.sprites-pg {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -191px;
+}
+
+.sprites-pk {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -191px;
+}
+
+.sprites-pl {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -191px;
+}
+
+.sprites-pt {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -191px;
+}
+
+.sprites-py {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -191px;
+}
+
+.sprites-qa {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -191px;
+}
+
+.sprites-ro {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -212px;
+}
+
+.sprites-ru {
+    width: 23px;
+    height: 17px;
+    background-position: -29px -212px;
+}
+
+.sprites-rw {
+    width: 23px;
+    height: 17px;
+    background-position: -56px -212px;
+}
+
+.sprites-sa {
+    width: 23px;
+    height: 17px;
+    background-position: -83px -212px;
+}
+
+.sprites-se {
+    width: 23px;
+    height: 17px;
+    background-position: -110px -212px;
+}
+
+.sprites-sg {
+    width: 23px;
+    height: 17px;
+    background-position: -137px -212px;
+}
+
+.sprites-sl {
+    width: 23px;
+    height: 17px;
+    background-position: -164px -212px;
+}
+
+.sprites-sn {
+    width: 23px;
+    height: 17px;
+    background-position: -191px -212px;
+}
+
+.sprites-so {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -2px;
+}
+
+.sprites-sv {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -23px;
+}
+
+.sprites-td {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -44px;
+}
+
+.sprites-tj {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -65px;
+}
+
+.sprites-tl {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -86px;
+}
+
+.sprites-tr {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -107px;
+}
+
+.sprites-tz {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -128px;
+}
+
+.sprites-ua {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -149px;
+}
+
+.sprites-us {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -170px;
+}
+
+.sprites-ve {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -191px;
+}
+
+.sprites-vn {
+    width: 23px;
+    height: 17px;
+    background-position: -218px -212px;
+}
+
+.sprites-ye {
+    width: 23px;
+    height: 17px;
+    background-position: -2px -233px;
+}
